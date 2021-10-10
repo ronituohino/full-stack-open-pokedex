@@ -4,6 +4,8 @@ This repository is used for the CI/CD module of the Full stack open course
 
 Fork the repository to complete course exercises
 
+My own project (the last assignment): https://github.com/ronituohino/fso-2021-puhelinluettelo
+
 ## Commands
 
 Start by running `npm install` inside the project folder
